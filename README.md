@@ -8,7 +8,6 @@ Sound Studio is a web-based music streaming platform that allows users to explor
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
 

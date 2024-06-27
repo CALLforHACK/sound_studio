@@ -2,6 +2,8 @@
 
 Sound Studio is a web-based music streaming platform that allows users to explore and enjoy various playlists, songs, and artists. The project includes responsive web pages, stylish designs, and a rich media library.
 
+## Link : https://callforhack.github.io/sound_studio
+
 ## Table of Contents
 
 - [Installation](#installation)

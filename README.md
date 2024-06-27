@@ -17,11 +17,11 @@ Sound Studio is a web-based music streaming platform that allows users to explor
    git clone https://github.com/yourusername/sound_studio.git
 2. Navigate to the project directory:
    cd sound_studio
-Usage
+## Usage :
 Open the index.html file in your preferred web browser to start exploring the Sound Studio platform.
 
-Contributing
+## Contributing :
 Contributions are welcome! Please fork this repository and submit pull requests.
 
-License
+## License :
 This project is licensed under the MIT License.
